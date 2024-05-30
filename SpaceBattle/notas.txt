@@ -1,0 +1,42 @@
+# ===================================
+# Proyecto Kodland Christian Iturbide
+# ===================================
+
+SPACE BATTLE
+
+https://platform.kodland.org/es/task_60094/ 
+
+Juego de 2 jugadores
+10 niveles de energia
+3 balas maximo por tanda
+Nivel 1 - Facil - Sin asteroides
+Nivel 2 - Intermedio - Con Asteroides
+Nivel 3 - Dificil - Con naves
+La nave pierde una unidad de energia si recibe un disparo
+Las naves pierden si chocan
+El juego termina cuando un jugador llega a nivel de energia 0
+
+
+CHECKLIST
+Crear configuracion basica del juego. Crear constantes de score
+Crear background, Crear y posicionar actores
+Dibujar pantalla de bienvenida en modo START
+Dibujar pantalla de juego en modo PLAYING
+Dibujar puntuacion
+Controlar movimientos de las 2 naves
+Dibujar disparos
+Detectar colisiones de disparos
+Decrementar energia
+Detectar colisiones de naves
+Dibujar pantalla de Fin de juego si uno de los jugadores llega a 0 energia
+Optimizar codigo
+Crear funciones
+Crear limites de movimiento
+Cambiar apariencia de nave si tiene dano
+Agregar sonido
+Agregar musica de fondo
+Agregar nivel 2 con asteroides
+
+
+PREGUNTAS
+Como agregar sonido?
